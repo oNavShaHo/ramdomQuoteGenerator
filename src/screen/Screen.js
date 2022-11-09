@@ -1,6 +1,6 @@
 
 import React,{useEffect,useState} from 'react'
-import randomColor from "randomcolor";
+
 import tumblrIcon from '../tumblr.svg';
 import twitterIcon from '../twitter.svg';
 import '../screen/Screen.css'
