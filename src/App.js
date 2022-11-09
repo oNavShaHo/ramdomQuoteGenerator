@@ -1,11 +1,11 @@
+import React from 'react'
 
-import './App.css';
-
+import Screen from './screen/Screen';
 function App() {
   return (
-    <div className="App">
-   <p>Hello</p>
-    </div>
+   
+   <Screen/>
+    
   );
 }
 
