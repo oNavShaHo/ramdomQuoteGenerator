@@ -60,7 +60,7 @@ const handleClick=()=>{
 
     <div id="buttons">    
       <div className="social-media">
-            <a  href="https://twitter.com/" id="tweet-quote">
+            <a  href="twitter.com/intent/tweet" id="tweet-quote">
                 <span><img  src={twitterIcon} height="15" alt="" /></span>
             </a>
           
